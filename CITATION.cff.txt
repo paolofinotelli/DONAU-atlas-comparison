@@ -1,0 +1,66 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software archive."
+title: "DONAU: Code for structural and functional connectome analysis across brain parcellations"
+type: software
+# Author order not decided yet: reorder as agreed. Add orcid / affiliation if available.
+authors:
+  - family-names: "Bordin"
+    given-names: "Valentina"
+    # orcid: "https://orcid.org/0000-0002-3190-274X"
+    # affiliation: "Politecnico di Milano"
+  - family-names: "Finotelli"     # DONAU project coordinator
+    given-names: "Paolo"
+    # orcid: "https://orcid.org/0000-0002-8529-4321"
+    # affiliation: "TO BE ADDED"
+repository-code: "https://github.com/paolofinotelli/donau-connectivity-analysis"
+license: MIT
+keywords:
+  - connectome
+  - structural connectivity
+  - functional connectivity
+  - brain parcellation
+  - graph theory
+  - mild cognitive impairment
+  - ADNI
+# Fill in after the first Zenodo release:
+# version: "1.0.0"
+# date-released: "2026-01-29"
+# doi: "10.5281/zenodo.18414862" 
+
+# Fill in once the paper is accepted (working title below):
+# preferred-citation:
+#   type: article
+#   title: "No Single Atlas Fits All: Parcellation Choice Shapes Structural and Functional Connectome Analyses in Mild Cognitive Impairment"
+#   authors:
+#     - family-names: "Finotelli"
+#       given-names: "Paolo"
+#     - family-names: "Baselli"
+#       given-names: "Giuseppe"
+#     - family-names: "Bianchi"
+#       given-names: "Anna Maria"
+#     - family-names: "Bordin"
+#       given-names: "Valentina"
+#     - family-names: "Cabral"
+#       given-names: "Joana"
+#     - family-names: "Cercignani"
+#       given-names: "Mara"
+#     - family-names: "Delinte"
+#       given-names: "Nicolas"
+#     - family-names: "Eustache"
+#       given-names: "Francis"
+#     - family-names: "Figueiredo"
+#       given-names: "Patricia"
+#     - family-names: "Griffanti"
+#       given-names: "Ludovica"
+#     - family-names: "Macq"
+#     - family-names: "Miguel Bento"
+#       given-names: "Vania"
+#     - family-names: "Preti"
+#       given-names: "Maria Giulia"
+#     - family-names: "Vale"
+#       given-names: "Beatriz"
+#     - family-names: "Vandeville"
+#       given-names: "Dimitri"
+#   journal: "TO BE ADDED"
+#   year: 2026
+#   doi: "TO BE ADDED"

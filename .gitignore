@@ -1,0 +1,33 @@
+# ── ADNI data and derived files (cannot be redistributed) ──────────────
+data_FC/
+data_SC/
+data/
+results/
+*.mat
+*.npy
+*_nodal_metrics.csv
+summary_aggregates.csv
+longitudinal_ADNI_filtering_FINAL.csv
+
+# ── Generated figures / tables (regenerate with the scripts) ───────────
+SUBC_atlases/
+noSUBC_atlases/
+
+# ── Python ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# ── Editors / OS ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# ── Secrets ────────────────────────────────────────────────────────────
+.env
